@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-08-01",
+  "apps": [
+    {
+      "packageName": "ai.keyboard.assistant.oki",
+      "name": "Oki - AI Keyboard",
+      "tagline": "Rewrite your text in any tone, anywhere",
+      "iconUrl": "https://.../oki_icon.webp",
+      "storeUrl": "https://play.google.com/store/apps/details?id=ai.keyboard.assistant.oki",
+      "weight": 3
+    }
+  ]
+}
