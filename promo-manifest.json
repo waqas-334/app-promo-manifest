@@ -5,7 +5,7 @@
       "packageName": "ai.keyboard.assistant.oki",
       "name": "Oki - AI Keyboard",
       "tagline": "Rewrite your text in any tone, anywhere",
-      "iconUrl": "https://.../oki_icon.webp",
+      "iconUrl": "https://raw.githubusercontent.com/waqas-334/app-promo-manifest/main/assets/oki-icon.webp",
       "storeUrl": "https://play.google.com/store/apps/details?id=ai.keyboard.assistant.oki",
       "weight": 3
     }
