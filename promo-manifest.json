@@ -1,22 +1,59 @@
 {
-    "updatedAt": "2026-08-01",
-    "apps": [
-      {
-        "packageName": "ai.keyboard.assistant.oki",
-        "name": "AI Keyboard - Oki",
-        "titleColor": "#FB7927",
-        "tagline": [
-          {
-            "en": "Rewrite your text in any tone, anywhere",
-            "es": "Reescribe tu texto con el tono que quieras, donde quieras."
-          },{
-              "en": "Sound professional in every email",
-            "es": "Suena profesional en todos tus correos electrónicos"
-          }
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/waqas-334/app-promo-manifest/main/assets/oki-icon-2.webp",
-        "storeUrl": "https://play.google.com/store/apps/details?id=ai.keyboard.assistant.oki",
-        "weight": 1
-      }
-    ]
-  }
+  "version": 2,
+  "apps": [
+    {
+      "packageName": "ai.keyboard.assistant.oki",
+      "name": "AI Keyboard - Oki",
+      "titleColor": "#FB7927",
+      "tagline": [
+        {
+          "en": "Rewrite your text in any tone, anywhere",
+          "es": "Reescribe tu texto con el tono que quieras, donde quieras",
+          "ar": "أعد كتابة نصك بأي نبرة، في أي مكان",
+          "hi": "अपने टेक्स्ट को किसी भी टोन में, कहीं भी फिर से लिखें",
+          "fr": "Réécrivez votre texte dans n'importe quel ton, partout",
+          "pt": "Reescreva seu texto em qualquer tom, em qualquer lugar",
+          "zh": "随时随地用任何语气改写文本",
+          "ru": "Перепишите текст в любом тоне, где угодно",
+          "bn": "যেকোনো টোনে, যেকোনো জায়গায় আপনার টেক্সট পুনরায় লিখুন"
+        },
+        {
+          "en": "Sound professional in every email",
+          "es": "Suena profesional en todos tus correos electrónicos",
+          "ar": "اظهر باحترافية في كل بريد إلكتروني",
+          "hi": "हर ईमेल में पेशेवर दिखें",
+          "fr": "Soyez professionnel dans chaque email",
+          "pt": "Pareça profissional em cada email",
+          "zh": "每封邮件都展现专业风范",
+          "ru": "Звучите профессионально в каждом письме",
+          "bn": "প্রতিটি ইমেইলে পেশাদার শোনান"
+        },
+        {
+          "en": "Smart replies at your fingertips",
+          "es": "Respuestas inteligentes al alcance de tu mano",
+          "ar": "ردود ذكية في متناول يدك",
+          "hi": "स्मार्ट जवाब आपकी उंगलियों पर",
+          "fr": "Des réponses intelligentes à portée de main",
+          "pt": "Respostas inteligentes na ponta dos dedos",
+          "zh": "智能回复触手可及",
+          "ru": "Умные ответы под рукой",
+          "bn": "স্মার্ট উত্তর আপনার নখদর্পণে"
+        },
+        {
+          "en": "Write faster with AI assistance",
+          "es": "Escribe más rápido con asistencia de IA",
+          "ar": "اكتب أسرع بمساعدة الذكاء الاصطناعي",
+          "hi": "AI सहायता से तेज़ी से लिखें",
+          "fr": "Écrivez plus vite avec l'aide de l'IA",
+          "pt": "Escreva mais rápido com assistência de IA",
+          "zh": "借助AI更快地书写",
+          "ru": "Пишите быстрее с помощью ИИ",
+          "bn": "AI সহায়তায় দ্রুত লিখুন"
+        }
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/waqas-334/app-promo-manifest/main/assets/oki-icon-2.webp",
+      "storeUrl": "https://play.google.com/store/apps/details?id=ai.keyboard.assistant.oki",
+      "weight": 1
+    }
+  ]
+}
