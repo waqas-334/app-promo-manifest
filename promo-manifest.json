@@ -4,6 +4,7 @@
     {
       "packageName": "ai.keyboard.assistant.oki",
       "name": "AI Keyboard - Oki",
+      "os": "android",
       "titleColor": "#FB7927",
       "tagline": [
         {
